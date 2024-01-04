@@ -1,7 +1,6 @@
 {
   "name": "task-pokedex",
   "version": "0.1.0",
-  "homepage": "https://Well-IDESCO.github.io/Pokepedia-REACT-PokeAPI",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.3",
