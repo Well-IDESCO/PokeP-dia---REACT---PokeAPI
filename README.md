@@ -1,6 +1,6 @@
 # POKEPÉDIA USANDO REACT E POKEAPI
 
-##HOSPEDADO EM: https://pokepedia-react-poke-api.vercel.app/
+## HOSPEDADO EM: https://pokepedia-react-poke-api.vercel.app/
 
 Api utilizada: https://pokeapi.co/
 
